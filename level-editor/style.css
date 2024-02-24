@@ -12,9 +12,13 @@ p {
   font-size: 13px;
   text-align: center;
 }
-a {
-  position: fixed;
-  bottom: 5px;
-  right: 7px;
-  font-size: 15px;
+textarea {
+  width: 200px;
+  height: 200px;
+  font-family: 'Courier New', Courier, monospace;
+  text-transform: uppercase;
+}
+#errors {
+  display: none;
+  color: red;
 }
