@@ -1,0 +1,1 @@
+This is the source code for Stuckoban, a Sokoban puzzle game variant by TheObjectRack. Play the game [here](https://theobjectrack.github.io/stuckoban)!
